@@ -15,10 +15,10 @@ This mod requires v3.0.1 or newer version of [RE-UE4SS](https://github.com/UE4SS
 ## 使い方
 ### Modのインストール
  - まず、 [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)(外部リポジトリ)をパルワールドのフォルダにインストールします。（インストールの仕方は割愛します。）
- - つぎに [Mod.zip](https://github.com/RR96ne/palworld-chat-logger/blob/main/bin/Mod.zip)をダウンロードして解凍し、
+ - つぎに [Mod.zip](https://github.com/RR96ne/palworld-chat-logger/releases/tag/v1.0.0)をダウンロードして解凍し、
    {パルワールドのインストールフォルダ}\Pal\Binaries\Win64\Mods\の中に解凍したChatLoggerModフォルダごと入れます。
 ### Viewerのインストール
- - [Viewer.zip](https://github.com/RR96ne/palworld-chat-logger/blob/main/bin/Viewer.zip)をダウンロードして解凍し、
+ - [Viewer.zip](https://github.com/RR96ne/palworld-chat-logger/releases/tag/v1.0.0)をダウンロードして解凍し、
  - 適当な場所にChatLogViewerフォルダを移動します。
  - 必要に応じてChatLogViewerフォルダの中のChatLogViewer.exeのショートカットを作成し、デスクトップなどに置きます。
 ### 起動方法
