@@ -24,6 +24,11 @@ This mod requires v3.0.1 or newer version of [RE-UE4SS](https://github.com/UE4SS
 ### 起動方法
  - ChatLogViewer.exe(またはそのショートカット）を起動します。Viewerが立ち上がります。
  - パルワールドを起動し、チャットを受信するとViewerの画面にチャットが表示されます。
+### オプション
+ - Automatic_scrolling: チェックを入れると、チャット受信時に自動でスクロールします
+ - Display_on_topmonst: チェックを入れると、ウィンドウを最前面に表示します
+ - Poping_sound: チェックを入れると、チャット受信時に音を鳴らします。
 
 ## 動作例
+Youtubeへのリンクです。  
 [![【PalWorld】パルワールドのチャットを別画面に出力するModを作った。【MOD】](https://img.youtube.com/vi/eA_-xLQWfoY/0.jpg)](https://www.youtube.com/watch?v=eA_-xLQWfoY)
