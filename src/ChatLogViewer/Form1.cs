@@ -155,6 +155,9 @@ namespace ChatLogViewer
                                     {
                                         line = line.Substring(1);
                                     }
+                                    
+                                    //時刻を付加
+                                    line = DateTime.Now.ToString("HH:mm:ss") + line;
 
 									if (!token.IsCancellationRequested)
                                     {
