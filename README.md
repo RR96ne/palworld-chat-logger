@@ -9,8 +9,8 @@ I am not responsible for any inconvenience or damage caused by using this mod.
 This mod requires v3.0.1 or newer version of [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).  
 このModは RE-UE4SS(v3.0.1 以上)の環境で動作します。  
 
-.Net Framework 4.8.x runtime is required for the Viewer to work.  
-さらに、Viewerの動作には .Net Framework 4.8.xランタイムが必要です。
+.Net Framework 4.8.1 runtime is required for the Viewer to work.  
+さらに、Viewerの動作には .Net Framework 4.8.1ランタイムが必要です。
 
 ## 使い方
 ### Modのインストール
